@@ -1,4 +1,4 @@
-package day4.firstpackage;
+package day4;
 
 public class StudententityDemo {
 	public static void main(String [] args) {
