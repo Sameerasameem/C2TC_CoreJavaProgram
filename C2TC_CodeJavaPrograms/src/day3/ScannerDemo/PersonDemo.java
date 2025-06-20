@@ -1,4 +1,4 @@
-package day3;
+package day3.ScannerDemo;
 import java.util.Scanner;
 public class PersonDemo {
 	public static void main(String [] args) {

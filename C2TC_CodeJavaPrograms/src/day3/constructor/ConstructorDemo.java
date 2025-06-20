@@ -1,14 +1,14 @@
-package day3;
+package day3.constructor;
 
 import java.util.Scanner;
 
 public class ConstructorDemo {
 	public static void main(String [] args) {
 		Scanner sc = new Scanner(System.in);
-		int cusId;
+		int id;
 		String name ,city;
 		System.out.print("Enter Customer Id : ");
-		 int id=sc.nextInt();
+		id=sc.nextInt();
 		sc.nextLine();
 		System.out.print("Enter Customer Name : ");
 		name=sc.nextLine();

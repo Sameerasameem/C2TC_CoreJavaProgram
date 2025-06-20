@@ -1,5 +1,4 @@
-package day3;
-
+package day3.encapsulation;
 public class EncapsulationDemo {
 	public static void main(String[] args) {
 		OopsConceptDemo obj = new OopsConceptDemo();

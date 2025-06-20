@@ -1,6 +1,6 @@
-package day3;
+package day3.encapsulation;
 
-public class OopsConceptDemo {
+public class OopsConceptDemo{
 	private int id,age;
 	private String name;
 	public int getId() {
